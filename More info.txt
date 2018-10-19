@@ -1,0 +1,11 @@
+Note : The executable Provided Only runs for Ubuntu 64 bit
+
+1. The Publish function on the menubar Generates an excel file name Librecords.xls inside cs-project-final.
+
+2. All the files inside the folder cs-project-final/Library/Library Management/  are of back-end whereas rest of the
+	files inside the folder cs-project-final/Library/    are of front end which is made via QT.
+
+3. Many different files were used during the making of the project to keep the code neat and clean.
+
+4. Save inside the menubar saves all the changes made during the current execution. This is automatically called while
+	the program closes

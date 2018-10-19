@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\booksdatabase.o
+./release\studentsdatabase.o
+./release\issuebook.o
+./release\returnbook.o
+./release\confirmissuebook.o
+./release\listofbooks.o
+./release\moc_mainwindow.o
+./release\moc_booksdatabase.o
+./release\moc_studentsdatabase.o
+./release\moc_issuebook.o
+./release\moc_returnbook.o
+./release\moc_confirmissuebook.o
+./release\moc_listofbooks.o
+);

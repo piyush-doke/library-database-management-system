@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\booksdatabase.o
+./debug\studentsdatabase.o
+./debug\issuebook.o
+./debug\returnbook.o
+./debug\confirmissuebook.o
+./debug\listofbooks.o
+./debug\moc_mainwindow.o
+./debug\moc_booksdatabase.o
+./debug\moc_studentsdatabase.o
+./debug\moc_issuebook.o
+./debug\moc_returnbook.o
+./debug\moc_confirmissuebook.o
+./debug\moc_listofbooks.o
+);
