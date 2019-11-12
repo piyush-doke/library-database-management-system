@@ -2,9 +2,9 @@
 
 ## Contributers
 
-- Abhishek Varghese
-- Piyush Doke
-- Shivam Pandey
+- Abhishek Varghese (Back End)
+- Shivam Pandey (Front End - GUI)
+- Piyush Doke (Front End - GUI)
 
 ## Aim
 
