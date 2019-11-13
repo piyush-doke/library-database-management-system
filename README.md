@@ -6,6 +6,10 @@
 - Shivam Pandey (Front End - GUI)
 - Piyush Doke (Front End - GUI)
 
+## Guide
+
+- Prof. Abhiram G. Ranade (Department of Computer Science, IIT Bombay)
+
 ## Aim
 
 This project was developed from the point of view of digitalizing the library of institutions. These days keeping records of thousands of books issued to tons of students is a hectic job when doing manually on a register. So, we have come up with a software which will serve as a DBMS for an institution's library.
