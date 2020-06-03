@@ -26,7 +26,7 @@ This software was developed from the point of view of digitizing the library of 
 
 - C++
 - Qt Creator (cross-platform toolkit for developing GUI applications)
-## Working 
+## Working
 
 * Upon opening the application, all data is read from their respective excel sheets and is put into the hash table. It includes all the *unreturned books, books data and students data.*
 * When a book is issued, new data is added into the hash table.
