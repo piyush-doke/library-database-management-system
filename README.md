@@ -1,5 +1,4 @@
-# About the Project
-
+# Library Database Management System
 
 ## Contributors
 
@@ -11,7 +10,7 @@
 
 - Prof. Abhiram G. Ranade (Department of Computer Science, IIT Bombay)
 
-## Aim
+## Objective
 
 This software was developed from the point of view of digitizing the library of our institution. Keeping a record of hundreds of books issued to several students is a hectic job when done manually on a register. Hence, we developed a stand-alone software application that will serve as a DBMS for our institution's library.
 
