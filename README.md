@@ -1,7 +1,7 @@
 # Library Database Management System
 
 
-## Contributers
+## Contributors
 
 - Abhishek Varghese (Back End)
 - Shivam Pandey (Front End - GUI)
@@ -13,7 +13,7 @@
 
 ## Aim
 
-This software was developed from the point of view of digitizing the library of our institution. Keeping record of hundreds of books issued to several students is a hectic job when done manually on a register. Hence, we developed a stand-alone software application which will serve as a DBMS for our institution's library.
+This software was developed from the point of view of digitizing the library of our institution. Keeping a record of hundreds of books issued to several students is a hectic job when done manually on a register. Hence, we developed a stand-alone software application that will serve as a DBMS for our institution's library.
 
 ## Data Structures
 
@@ -32,5 +32,5 @@ This software was developed from the point of view of digitizing the library of 
 
 * Upon opening the application, all data is read from their respective excel sheets and is put into the hash table. It includes all the *unreturned books, books data and students data.*
 * When a book is issued, new data is added into the hash table.
-* when a book is returned, old data is removed from hash table and is dumped into permanent records.
-* While closing the application, temperory data is stored in a file, whcih is to be recovered the next time the application runs.
+* When a book is returned, old data is removed from hash table and is dumped into permanent records.
+* While closing the application, temporary data gets stored in a file. The same is loaded back next time when the application starts up.
