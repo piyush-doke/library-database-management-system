@@ -1,4 +1,4 @@
-# Library Database Management System
+# About the Project
 
 
 ## Contributors
