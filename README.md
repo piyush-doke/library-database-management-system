@@ -23,7 +23,7 @@ This software was developed from the point of view of digitizing the library of 
 1. **StudentFileIO** : A data structure created using string stream, that reads student records from spreadsheets.
 1. **BookFileIO** : A data structure created using string stream, that reads book records from spreadsheets.
 
-## Technology/Tools
+## Technologies/Tools
 
 - C++
 - Qt Creator (cross-platform toolkit for developing GUI applications)
