@@ -1,16 +1,6 @@
 # Library Database Management System
 
-## Contributors
-
-- Abhishek Varghese (Back End)
-- Shivam Pandey (Front End - GUI)
-- Piyush Doke (Front End - GUI)
-
-## Guide
-
-- Prof. Abhiram G. Ranade (Department of Computer Science, IIT Bombay)
-
-## Objective
+## Description
 
 This software was developed from the point of view of digitizing the library of our institution. Keeping a record of hundreds of books issued to several students is a hectic job when done manually on a register. Hence, we developed a stand-alone software application that will serve as a DBMS for our institution's library.
 
@@ -22,7 +12,7 @@ This software was developed from the point of view of digitizing the library of 
 1. **StudentFileIO** : A data structure created using string stream, that reads student records from spreadsheets.
 1. **BookFileIO** : A data structure created using string stream, that reads book records from spreadsheets.
 
-## Technologies/Tools
+## Frameworks/Tools
 
 - C++
 - Qt Creator (cross-platform toolkit for developing GUI applications)
@@ -33,3 +23,13 @@ This software was developed from the point of view of digitizing the library of 
 * When a book is issued, new data is added into the hash table.
 * When a book is returned, old data is removed from hash table and is dumped into permanent records.
 * While closing the application, temporary data gets stored in a file. The same is loaded back next time when the application starts up.
+
+## Contributors
+
+- Abhishek Varghese (Back End)
+- Shivam Pandey (Front End - GUI)
+- Piyush Doke (Front End - GUI)
+
+## Guide
+
+- Prof. Abhiram G. Ranade (Department of Computer Science, IIT Bombay)
